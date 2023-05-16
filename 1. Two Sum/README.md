@@ -1,8 +1,6 @@
 1. Two Sum
 Easy
-46.2K
-1.5K
-Companies
+
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
