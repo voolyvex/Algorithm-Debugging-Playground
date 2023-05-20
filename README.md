@@ -1,6 +1,6 @@
 # Algorithm Problem Solving with VS Code Debugger
 
-This repository provides solutions to coding problems from LeetCode, HackerRank, and Project Euler, with an emphasis on utilizing the VS Code debugger. The goal is to enhance problem-solving skills and effectively analyze and debug solutions.
+This repository provides solutions to coding problems from LeetCode, HackerRank, and Project Euler, and other sources with an emphasis on utilizing the VS Code debugger. The goal is to enhance problem-solving skills and effectively analyze and debug solutions.
 
 ## Usage
 
@@ -8,7 +8,7 @@ This repository provides solutions to coding problems from LeetCode, HackerRank,
 
 2. Open the repository in VS Code.
 
-3. Explore the `src` folder for different platforms (e.g., `leetcode`, `hackerrank`, `projecteuler`).
+3. Explore the folder for different language you are solving in.
 
 4. Open a solution file in VS Code.
 
@@ -26,7 +26,7 @@ Contributions to this repository are welcome. Follow these steps to contribute:
 
 2. Create a new branch for your contributions.
 
-3. Make modifications adhering to coding standards and add relevant test cases.
+3. Make changes and add relevant test cases.
 
 4. Commit your changes with a clear and concise message.
 
