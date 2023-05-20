@@ -38,9 +38,20 @@ namespace CodingChallengesCSharp
             return duplicates;
         }
 
-        
 
+        /* 2. Problem Two: Create a function that reverses a string, utilizing recursion
+        * You may not use any built-in Python methods to reverse your string! */
 
+        public string ReverseString(string inputString)
+        {
+            string result = "";
+            for (int i = inputString.Length - 1; i > -1; i--)
+            {
+                result += inputString[i];
+            }
+
+            return result;
+        }
 
         public static void Main(string[] args)
         {
@@ -49,16 +60,17 @@ namespace CodingChallengesCSharp
             // Comment in/out for the function you want to test
 
             //Problem 1------------
-            string testString = "Tallahassee";
-            Dictionary<char, int> duplicates = solution.FindDupes(testString);
-            string answer = $"Input String: {testString}\n";
-            foreach (var kvp in duplicates)
-            {
-                answer += ($"Duplicate character: {kvp.Key}, Count: {kvp.Value}\n");
-            }
+            //string testString = "Tallahassee";
+            //Dictionary<char, int> duplicates = solution.FindDupes(testString);
+            //string answer = $"Input String: {testString}\n";
+            //foreach (var kvp in duplicates)
+            //{
+            //    answer += ($"Duplicate character: {kvp.Key}, Count: {kvp.Value}\n");
+            //}
 
             //Problem 2------------
-
+            string testString = "gargantuan";
+            string answer = solution.ReverseString(testString);
 
             //Print the output
             Console.WriteLine(answer);
