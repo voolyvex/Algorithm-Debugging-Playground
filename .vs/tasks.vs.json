@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-practice_problems",
+      "appliesTo": "C#/practice_problems.cs",
+      "type": "launch"
+    }
+  ]
+}

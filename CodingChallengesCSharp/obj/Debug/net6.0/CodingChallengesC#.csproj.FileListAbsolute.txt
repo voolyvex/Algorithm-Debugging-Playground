@@ -1,0 +1,15 @@
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.csproj.AssemblyReference.cache
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.AssemblyInfoInputs.cache
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.AssemblyInfo.cs
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.csproj.CoreCompileInputs.cache
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\bin\Debug\net6.0\CodingChallengesC#.exe
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\bin\Debug\net6.0\CodingChallengesC#.deps.json
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\bin\Debug\net6.0\CodingChallengesC#.runtimeconfig.json
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\bin\Debug\net6.0\CodingChallengesC#.dll
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\bin\Debug\net6.0\CodingChallengesC#.pdb
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.dll
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\refint\CodingChallengesC#.dll
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.pdb
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\CodingChallengesC#.genruntimeconfig.cache
+C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesC#\obj\Debug\net6.0\ref\CodingChallengesC#.dll

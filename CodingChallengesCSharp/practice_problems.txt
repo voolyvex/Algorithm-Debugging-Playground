@@ -1,0 +1,29 @@
+Algorithm Practice Problems
+
+
+
+1. Problem One: Create a function to detect and print duplicate characters from a given string
+   * BONUS: Modify the function to also include the number of times the duplicate character appears in the string
+
+2. Problem Two: Create a function that reverses a string, utilizing recursion
+   * You may not use any built-in Python methods to reverse your string!
+
+3. Problem Three: Create a function that counts the number of vowels and consonants within a given string
+   * This method should return a dictionary with two keys -  “vowels” and “consonants”, and values of the number of times each appears in the string
+
+4. Problem Four: Create a function that computes the total sum of all numerical values within a given string
+
+5. Problem Five: Create a function that calculates the difference between a given number and 15.  If the difference is greater than 10, return double the absolute difference
+
+6. Problem Six: Create a “Pig Latin Converter” function, that can translate a given string into Pig Latin
+   * English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word, and adding ‘ay’.  
+   * EXAMPLE: “The quick brown fox” becomes “Hetay uickqay rownbay oxfay”
+
+7. Problem Seven: Create a function that will return the largest numeric value within a given list
+
+8. Problem Eight: Create a function that calculates all possible permutations of a given string
+
+9. Problem Nine: Create a function that will convert a given numeric value into the corresponding number of hours and minutes
+
+10. Problem Ten: Create a function that will determine if two given strings are anagrams of one another or not
+Page
