@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1joek\\Desktop\\cloned repository\\Algorithm-Debugging-Playground\\CodingChallengesCSharp\\CodingChallengesCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\1joek\\Desktop\\cloned_repository\\Algorithm-Debugging-Playground\\CodingChallengesCSharp\\CodingChallengesCSharp.csproj",
       "projectName": "CodingChallengesCSharp",
-      "projectPath": "C:\\Users\\1joek\\Desktop\\cloned repository\\Algorithm-Debugging-Playground\\CodingChallengesCSharp\\CodingChallengesCSharp.csproj",
+      "projectPath": "C:\\Users\\1joek\\Desktop\\cloned_repository\\Algorithm-Debugging-Playground\\CodingChallengesCSharp\\CodingChallengesCSharp.csproj",
       "packagesPath": "C:\\Users\\1joek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1joek\\Desktop\\cloned repository\\Algorithm-Debugging-Playground\\CodingChallengesCSharp\\obj\\",
+      "outputPath": "C:\\Users\\1joek\\Desktop\\cloned_repository\\Algorithm-Debugging-Playground\\CodingChallengesCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1joek\\AppData\\Roaming\\NuGet\\NuGet.Config",

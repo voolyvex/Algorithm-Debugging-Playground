@@ -1,5 +1,7 @@
+using Microsoft.VisualBasic;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Metrics;
 
 namespace CodingChallengesCSharp
 {
@@ -40,7 +42,7 @@ namespace CodingChallengesCSharp
 
 
         /* 2. Problem Two: Create a function that reverses a string, utilizing recursion
-        * You may not use any built-in Python methods to reverse your string! */
+        Do not use any built-in Python methods to reverse the string */
 
         public string ReverseString(string inputString)
         {
@@ -49,15 +51,45 @@ namespace CodingChallengesCSharp
             {
                 result += inputString[i];
             }
-
             return result;
         }
+
+
+        /* 3. Problem Three: Create a function that counts the number of vowels and consonants within a given string
+        This method should return a dictionary with two keys -  “vowels” and “consonants”, and values of the number of times each appears in the string */
+
+        public Dictionary<string, int> VowelCounter(string inputString)
+        {
+            Dictionary<string, int> result = new Dictionary<string, int>
+            {
+                { "vowels", 0 },
+                { "consonants", 0 }
+            };
+
+            string lowercaseInput = inputString.ToLower();
+            
+            for (int i = 0; i < lowercaseInput.Length; i++)
+            {
+                char c = lowercaseInput[i];
+
+                if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
+                {
+                    result["vowels"]++;
+                }
+                else
+                {
+                    result["consonants"]++;
+                }
+            }
+            return result;
+        }
+
 
         public static void Main(string[] args)
         {
             ChallengeSolutions solution = new ChallengeSolutions();
 
-            // Comment in/out for the function you want to test
+            // Uncomment the Problem Solution that you want to run or debug
 
             //Problem 1------------
             //string testString = "Tallahassee";
@@ -67,14 +99,21 @@ namespace CodingChallengesCSharp
             //{
             //    answer += ($"Duplicate character: {kvp.Key}, Count: {kvp.Value}\n");
             //}
+            //Console.WriteLine(answer);
 
             //Problem 2------------
-            string testString = "gargantuan";
-            string answer = solution.ReverseString(testString);
+            //string testString = "gargantuan";
+            //string answer = solution.ReverseString(testString);
+            //Console.WriteLine(answer);
 
-            //Print the output
-            Console.WriteLine(answer);
-            
+            //Problem 3------------
+            //string testString = "gargantuan";
+            //Dictionary<string, int> answer = solution.VowelCounter(testString);
+            //foreach (string key in answer.Keys)
+            //{
+            //    Console.WriteLine($"{key}: {answer[key]}");
+            //}
+
 
             // Keep the console window open
             Console.ReadLine();
