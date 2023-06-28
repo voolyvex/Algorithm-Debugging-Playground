@@ -29,9 +29,9 @@ C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingCh
 C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\obj\Debug\net6.0\CodingChallengesCSharp.genruntimeconfig.cache
 C:\Users\1joek\Desktop\cloned repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\obj\Debug\net6.0\ref\CodingChallengesCSharp.dll
 C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\bin\Debug\net6.0\CodingChallengesCSharp.exe
+C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\bin\Debug\net6.0\CodingChallengesCSharp.dll
 C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\bin\Debug\net6.0\CodingChallengesCSharp.deps.json
 C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\bin\Debug\net6.0\CodingChallengesCSharp.runtimeconfig.json
-C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\bin\Debug\net6.0\CodingChallengesCSharp.dll
 C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\bin\Debug\net6.0\CodingChallengesCSharp.pdb
 C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\obj\Debug\net6.0\CodingChallengesCSharp.csproj.AssemblyReference.cache
 C:\Users\1joek\Desktop\cloned_repository\Algorithm-Debugging-Playground\CodingChallengesCSharp\obj\Debug\net6.0\CodingChallengesCSharp.GeneratedMSBuildEditorConfig.editorconfig
